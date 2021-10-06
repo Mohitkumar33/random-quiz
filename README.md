@@ -9,3 +9,4 @@ At The end You also get to know the score out of 10.
 Privacy Note: No data is saved
 
 Keep smiling and Play the game
+[website link](https://replit.com/@Mohitkumar62/Triangle-quiz#index.js?embed=1&output=1)
